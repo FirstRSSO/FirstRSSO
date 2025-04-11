@@ -10,10 +10,10 @@ My name is **Michael Negrete**. I'm a passionate developer who loves building cr
 
 ### 🛠️ Tech Stack
 
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks/Libraries:** React, Node.js, Express
+- **Languages:** Dart, Python, Matlab, CSS
+- **Frameworks/Libraries:** Flutter, Node.js, Express
 - **Tools:** Git, GitHub, VS Code, Postman
-- **Databases:** MongoDB, MySQL
+- **Databases:** MongoDB, PostgreSQL
 
 ### 📫 Let's Connect
 
