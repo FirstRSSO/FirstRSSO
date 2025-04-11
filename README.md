@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**FirstRSSO/FirstRSSO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Michael Negrete**. I'm a passionate developer who loves building creative solutions through code.
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I enjoy working on projects that involve web development, automation, and creative coding.
+- 🌱 Currently learning new technologies to expand my full-stack development skills.
+- ⚡ Fun fact: I love solving problems and turning ideas into reality through programming.
+
+### 🛠️ Tech Stack
+
+- **Languages:** JavaScript, Python, HTML, CSS
+- **Frameworks/Libraries:** React, Node.js, Express
+- **Tools:** Git, GitHub, VS Code, Postman
+- **Databases:** MongoDB, MySQL
+
+### 📫 Let's Connect
+
+- LinkedIn: linkedin.com/in/michael-negrete-46573a200
+- Email: ir460787@gmail.com
