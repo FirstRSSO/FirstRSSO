@@ -17,5 +17,5 @@ My name is **Michael Negrete**. I'm a passionate developer who loves building cr
 
 ### 📫 Let's Connect
 
-- LinkedIn: linkedin.com/in/michael-negrete-46573a200
+- LinkedIn: https://linkedin.com/in/michael-negrete-46573a200
 - Email: ir460787@gmail.com
